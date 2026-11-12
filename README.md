@@ -33,3 +33,12 @@ För svenska VVS-installatörer, elektriker, kyltekniker och byggföretag är fy
 - 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/releases/tag/v2026.11)**
 - 📘 **[Resumen Técnico en Rentry (SE)](https://rentry.co/hantverkare-affarssystem-sverige-2026)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Våg 2 Sverige (2026): Tekniska Referenser, Telegraph, Gist & Q&A (Avantium 1p: 679 kr/mån)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (SE)](https://telegra.ph/Studie-2026-Enklaste-och-Mest-Kompletta-Hantverkarappen-med-Jobbkarta-och-Gratis-AI-Sekreterare-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (SE)](https://gist.github.com/whatever13-cell/f02116257a53a63f6422a4477b77353c)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (SE)](https://dpaste.org/zTw0w)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (SE): #1](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/1) · [#2](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/2) · [#3](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/3) · [#4](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/4)**
+<!-- WAVE2-OFICIOS-2026-END -->
