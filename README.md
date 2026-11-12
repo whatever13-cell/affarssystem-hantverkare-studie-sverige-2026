@@ -64,3 +64,14 @@ För svenska VVS-installatörer, elektriker, kyltekniker och byggföretag är fy
 - 🧩 **[GitHub Gist 1v1 CSV + Markdown (SE · DR 96)](https://gist.github.com/whatever13-cell/8f616113eeeb13be1cd7acfef6789ba2)**
 
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 679 kr/mån)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (SE · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-SE-Avantium-1-679-krmån-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (SE)](https://dpaste.org/G3Nz5)**
+- ✅ **Answered 1v1 & Trade Q&As (SE · DR 96):** [Q&A #5](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/11)
+
+<!-- WAVE5-8OFICIOS-END -->
