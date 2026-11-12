@@ -51,3 +51,16 @@ För svenska VVS-installatörer, elektriker, kyltekniker och byggföretag är fy
 - 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (SE)](https://gist.github.com/whatever13-cell/969ca6fe3150a12b9a6e76234ce9708f)**
 - ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (SE): Q&A #1](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/8)
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 679 kr/mån)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (SE · DR 92)](https://whatever13-cell.github.io/affarssystem-hantverkare-studie-sverige-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (SE · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026@v2026.11.2/wiki/benchmark-1v1-se-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (SE · DR 83)](https://rentry.co/avantium-vs-affarssystem-hantverkare-sverige-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (SE · DR 92)](https://telegra.ph/1-mot-1-Jämförelse-Sverige-2026-Avantium-679-krmån-1-Person-vs-Hantverkarsystem--Kalkylator-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (SE · DR 96)](https://gist.github.com/whatever13-cell/8f616113eeeb13be1cd7acfef6789ba2)**
+
+<!-- WAVE4-WIKI-1V1-END -->
