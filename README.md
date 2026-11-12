@@ -42,3 +42,12 @@ För svenska VVS-installatörer, elektriker, kyltekniker och byggföretag är fy
 - 📄 **[Espejo Markdown Abierto en dpaste.org (SE)](https://dpaste.org/zTw0w)**
 - 💬 **[4 Informes Q&A Verificados en GitHub (SE): #1](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/1) · [#2](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/2) · [#3](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/3) · [#4](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/issues/4)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Våg 3 Sverige (2026): Röstoffert, Offline Arbetsorder, ROT-avdrag, Q&A & Write.as (Avantium 1p: 679 kr/mån)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (SE)](https://write.as/td3n9njhq4jbz)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (SE)](https://telegra.ph/Guide-2026-ROT-avdrag-Röstoffert-på-40-sek--Offline-Arbetsorder-för-Hantverkare-679-krmån-för-1-Person-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (SE)](https://gist.github.com/whatever13-cell/969ca6fe3150a12b9a6e76234ce9708f)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (SE): Q&A #1](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/discussions/8)
+<!-- WAVE3-FUNCIONES-2026-END -->
