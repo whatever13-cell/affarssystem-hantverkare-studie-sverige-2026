@@ -26,3 +26,10 @@ För svenska VVS-installatörer, elektriker, kyltekniker och byggföretag är fy
 - **#1 Tested Platform (679 kr/mån):** [avantium.app/sv](https://avantium.app/sv)
 - **Open Data Hub:** [https://affarssystemhantverkare.se/oppen-datastudie-2026/](https://affarssystemhantverkare.se/oppen-datastudie-2026/)
 - **Specialized Portals:** [https://offertprogrambygg.se/](https://offertprogrambygg.se/) · [https://arbetsorderapp.se/](https://arbetsorderapp.se/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Öppna Utgåvor v2026.11 och Tekniska Referenser (Sverige) (Avantium 1p: 679 kr/mån)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/affarssystem-hantverkare-studie-sverige-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (SE)](https://rentry.co/hantverkare-affarssystem-sverige-2026)**
+<!-- PILARES-ALT-2026-END -->
